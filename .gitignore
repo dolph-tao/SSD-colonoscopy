@@ -1,7 +1,7 @@
 ##ignore files##
 /.idea/
-/.pytest_cache
-/_pycache_
+/.pytest_cache/
+/_pycache_/
 /dataset/
 /AnatomyDetection/
 /runs/
