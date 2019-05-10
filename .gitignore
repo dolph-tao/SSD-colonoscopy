@@ -1,6 +1,6 @@
 ##ignore files##
 /.idea/
-/.pytest_chache_
+/.pytest_chache
 /_pychache_
 /dataset/
 /AnatomyDetection/
